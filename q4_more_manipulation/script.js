@@ -5,7 +5,7 @@ let finished = document.querySelector('li.finished')
 finished.innerText = "Repay credit card debt"
 
 let urgent = document.querySelector('li#urgent');
-urgent.style.border = "2px solid black"; 
+urgent.style.border = "2px solid black";
 
 let underline = document.querySelector('span.emphasis')
 underline.style.textDecoration = "underline";
